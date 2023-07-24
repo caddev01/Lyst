@@ -2,3 +2,6 @@ Fan
 Pencils
 BUsiness
 Money
+
+Jotter
+Entrepreneur
