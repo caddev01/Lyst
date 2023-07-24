@@ -1,0 +1,59 @@
+html{background-color: peachpuff;}
+
+body{
+	font-family: sans-serif arial, times-new-roman;
+	color: sandybrown;
+}
+
+#wrapper{
+	width: 500px;
+	min-height:300px;
+	background-color: saddlebrown;
+	padding: 10px;
+	margin: 0 auto;
+	margin-top: 100px;
+	border-radius: 30px;
+	text-align: center;
+
+}
+
+#add{
+	border-radius: 5px;
+	background-color: black;
+	color: peachpuff;
+	height: 30px;
+	width: 80px;
+	margin: 0 5px;
+}
+
+#task{
+	border-radius: 10px;
+	background-color: peachpuff;
+	color: saddlebrown;
+	height: 35px;
+	width: 350px;
+	border-color: saddlebrown;
+	font-size: 15px;
+	font-weight: 500;
+
+}
+
+ul{
+	list-style: none;
+
+}
+
+.remove{
+	background-color: peachpuff;
+	color: saddlebrown;
+	border: none;
+	margin: 0px 5px;
+	float: right;
+	clear: both;
+}
+
+#todos{
+	text-align: left;
+	margin: 0 auto;
+	width: 400px;
+}
