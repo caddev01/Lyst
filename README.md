@@ -1,1 +1,1 @@
-Pineaple
+A Todo-list app built with JS and some css styling
